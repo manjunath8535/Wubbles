@@ -1,0 +1,44 @@
+[
+    {
+        "id": "track001",
+        "title": "Sunny Day Pop",
+        "mood": "Happy",
+        "genre": "Pop",
+        "url": "http://localhost:3001/audio/happy-pop.mp3"
+    },
+    {
+        "id": "track002",
+        "title": "Rainy Afternoon",
+        "mood": "Sad",
+        "genre": "Cinematic",
+        "url": "http://localhost:3001/audio/sad-cinematic.mp3"
+    },
+    {
+        "id": "track003",
+        "title": "Neon Nights",
+        "mood": "Energetic",
+        "genre": "EDM",
+        "url": "http://localhost:3001/audio/energetic-edm.mp3"
+    },
+    {
+        "id": "track004",
+        "title": "Cozy Cafe Beats",
+        "mood": "Chill",
+        "genre": "Lo-fi",
+        "url": "http://localhost:3001/audio/chill-lofi.mp3"
+    },
+    {
+        "id": "track005",
+        "title": "Upbeat Anthem",
+        "mood": "Happy",
+        "genre": "EDM",
+        "url": "http://localhost:3001/audio/energetic-edm.mp3"
+    },
+    {
+        "id": "track006",
+        "title": "Quiet Contemplation",
+        "mood": "Chill",
+        "genre": "Cinematic",
+        "url": "http://localhost:3001/audio/sad-cinematic.mp3"
+    }
+]
