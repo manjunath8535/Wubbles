@@ -65,7 +65,7 @@ npm install
 * Now In **Windows, open cmd, in Mac, bash Terminal**. Now Hit the below command.
 
 ```bash
-git clone 
+git clone https://github.com/manjunath8535/Wubbles.git
 ```
 
 * The project was cloned after this process.
