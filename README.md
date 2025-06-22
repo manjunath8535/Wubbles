@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# ℹ️ Wubbles 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* Wubbles QuickTune is a AI tool with the help of this tool you can generates audio files based on mood and genre.
+---
 
-## Available Scripts
+# 🌐 Preview of the Website
 
-In the project directory, you can run:
+<div align='center'>
 
-### `npm start`
+https://github.com/user-attachments/assets/c26f618c-339c-4fef-973c-6966737c614b
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+# 📱Preview of the Responsive Design
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align='center'>
 
-### `npm run build`
+https://github.com/user-attachments/assets/bbd21bd5-ceaf-45a6-9f93-a432891e14c9
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+</div>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# 🗂️ Framework & Languages
 
-### `npm run eject`
+* This project makes use of the Framework and Language listed below.to run this project. This framework and language have been installed in
+system with the same version or the latest version
+* To this project you need use Mongodb compass or Mongodb Atlas. Becuase the data is saving on Mongodb.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+| Framework  | Version |
+| ------------- | ------------- |
+| **Nodejs**  | 18.12.1  |
+| **React** | 19.0.0 |
+| **TailwindCss** | 3.4.17 |
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# 👨‍💻 Project Execution Command 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Command 1 to start the frontend of the project.
+```bash 
+npm start
+```
+### Command 2 to start the frontend of the project.
+```bash 
+cd backend
+npm start
+```
+---
 
-## Learn More
+# 📦 Dependencies for project execution. To install, run the commands listed below. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Without these dependencies, the project will not execute, To this below command in root project directory and backend folder directory.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm install
+```
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Close the project with this below command.
 
-### Analyzing the Bundle Size
+* Now In **Windows, open cmd, in Mac, bash Terminal**. Now Hit the below command.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+git clone 
+```
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* The project was cloned after this process.
