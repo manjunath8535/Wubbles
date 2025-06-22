@@ -43,16 +43,16 @@ system with the same version or the latest version
 ```bash 
 npm start
 ```
-### Command 2 to start the frontend of the project.
+### Command 2 to start the backend of the project.
 ```bash 
 cd backend
 npm start
 ```
 ---
 
-# 📦 Dependencies for project execution. To install, run the commands listed below. 
+# 📦 Dependencies for project execution. To install, run the below command. 
 
-* Without these dependencies, the project will not execute, To this below command in root project directory and backend folder directory.
+* Without these dependencies, the project will not execute, Run this below command in root project directory and backend folder directory.
 
 ```bash
 npm install
