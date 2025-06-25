@@ -37,6 +37,17 @@ system with the same version or the latest version
 
 ---
 
+# 🗒️ To work Google Authentication do this.
+
+### Generaet Clietn Id from this google cloud website: <a href='https://console.cloud.google.com/'>link</a>
+
+* Create a .env file in the root of your React project (if it doesn't exist).
+* Add this line to your .env:
+    * REACT_APP_GOOGLE_CLIENT_ID='Your-Client-Id'
+* Make sure to restart the dev server after updating .env. If everythings goes will then the website google authentication will work. You can signup from your google account.
+
+---
+
 # 👨‍💻 Project Execution Command 
 
 ### Command 1 to start the frontend of the project.
